@@ -7,5 +7,5 @@ docker build -t sio https://github.com/eBioRing/styio-dev-env.git#main:docker/st
 ```
 
 ```sh
-docker run --name sioco sio
+docker run -t sioco sio
 ```
