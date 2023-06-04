@@ -98,10 +98,14 @@ Gentoo provides an official tutorial on Gentoo Wiki.
 
 ## Docker Desktop
 
+Docker Desktop with GUI.
+
 {% embed url="https://docs.docker.com/desktop/install/windows-install/" %}
 Docker Tutorial: Installation on Windows
 {% endembed %}
 
 {% hint style="info" %}
-You don't have to use command line, this is the link of installer: [Docker Desktop](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe).
+You don't have to use command line, Docker Desktop installer for Windows is enough.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
