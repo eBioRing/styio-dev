@@ -6,11 +6,17 @@ If anyone insists in using MSVC + LLVM, this might be helpful: [MSVC + LLVM](../
 
 ## Hyper-V
 
-Hyper-V is a virtual machine platform.&#x20;
+Hyper-V is a virtual machine platform. It is an optional feature of Windows that can be turned on or off.&#x20;
 
 {% embed url="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v" %}
 Enable Hyper-V
 {% endembed %}
+
+There is a problem that **Hyper-V is NOT available for Windows 10 Home**. If anyone faces this problem, this might be helpful:&#x20;
+
+{% content-ref url="../../dark-magic/enable-hyper-v.md" %}
+[enable-hyper-v.md](../../dark-magic/enable-hyper-v.md)
+{% endcontent-ref %}
 
 It might be well-known that Hyper-V conflicts with many virtual machine platforms, but that is no longer the truth. There are some efforts for the compability:
 

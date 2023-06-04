@@ -1,3 +1,3 @@
 # MacOS
 
-## Can't Afford That
+**Can't Afford That**
