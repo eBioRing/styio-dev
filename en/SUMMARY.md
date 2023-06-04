@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Overview](README.md)
 
 ## Dev Env
 
@@ -9,6 +9,6 @@
   * [Windows](dev-env/preparation/windows.md)
   * [Linux](dev-env/preparation/linux.md)
   * [MacOS](dev-env/preparation/macos.md)
-* [Docker](dev-env/docker/README.md)
+* [Docker](dev-env/docker.md)
   * [Versions](dev-env/docker/versions.md)
 * [MSVC](dev-env/msvc.md)
