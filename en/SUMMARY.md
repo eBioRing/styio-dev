@@ -8,3 +8,4 @@
 * [Preparation](dev-env/preparation/README.md)
   * [Windows](dev-env/preparation/windows.md)
 * [Docker](dev-env/docker.md)
+* [MSVC](dev-env/msvc.md)

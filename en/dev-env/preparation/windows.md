@@ -2,7 +2,7 @@
 
 Developing styio compiler on Windows is NOT a wise choice, however, that is my daily life. After suffering from the environment installation, I highly recommend developers using [Docker Container in Visual Studio Code](https://code.visualstudio.com/docs/containers/overview) on Windows.&#x20;
 
-If anyone insists in using MSVC + LLVM, good luck.&#x20;
+If anyone insists in using MSVC + LLVM, this might be helpful: [MSVC + LLVM](../msvc.md).&#x20;
 
 ## Hyper-V
 
