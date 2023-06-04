@@ -1,11 +1,7 @@
 # Docker
 
-### Standard
+This section provides instruction on how to:
 
-```sh
-docker build -t sio https://github.com/eBioRing/styio-dev-env.git#main:docker/std
-```
+1. Configure Docker Desktop (Engine)
+2. Run Docker Container
 
-```sh
-docker run --name sioco -d -t sio
-```

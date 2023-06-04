@@ -1,5 +1,7 @@
 # Linux
 
+Either docker desktop or docker engine is required.
+
 ## Docker Desktop (Recommended)
 
 This is always the first choice.

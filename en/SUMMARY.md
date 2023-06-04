@@ -9,10 +9,11 @@
   * [Windows](dev-env/preparation/windows.md)
   * [Linux](dev-env/preparation/linux.md)
   * [MacOS](dev-env/preparation/macos.md)
-* [Visual Studio Code](dev-env/visual-studio-code.md)
 * [Docker](dev-env/docker.md)
+  * [Pull Image](dev-env/docker/pull-image.md)
+  * [Create Container](dev-env/docker/create-container.md)
   * [Versions](dev-env/docker/versions.md)
-  * [Usage](dev-env/docker/usage.md)
+* [Visual Studio Code](dev-env/visual-studio-code.md)
 * [MSVC](dev-env/msvc.md)
 
 ## Dark Magic
