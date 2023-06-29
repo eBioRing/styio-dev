@@ -23,3 +23,11 @@
 }
 ```
 {% endcode %}
+
+```
+"-g",
+"${workspaceFolder}\\src\\*.cpp",
+"${workspaceFolder}\\src\\include\\StyioUtil\\*.cpp",
+"${workspaceFolder}\\src\\include\\StyioParser\\*.cpp",
+```
+
