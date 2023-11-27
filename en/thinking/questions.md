@@ -70,6 +70,7 @@ Review
 * Parser (Stage II)
 * Type Hinting & Checking (Stage II)
 * LLVM Code Generator (Stage II)
+* Documentation
 
 Optimization
 

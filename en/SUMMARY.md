@@ -28,7 +28,5 @@
 ## Thinking
 
 * [Questions](thinking/questions.md)
-* [Outcome](thinking/outcome.md)
 * [Value](thinking/value.md)
-* [Discovery](thinking/discovery.md)
-* [Vision](thinking/vision.md)
+* [Outcome](thinking/outcome.md)
