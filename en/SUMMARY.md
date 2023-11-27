@@ -20,9 +20,15 @@
 ## Route For You
 
 * [Parser](route-for-you/parser.md)
-* [Page 1](route-for-you/page-1.md)
-* [Page](route-for-you/page.md)
 
 ## Dark Magic
 
 * [Enable Hyper-V](dark-magic/enable-hyper-v.md)
+
+## Thinking
+
+* [Questions](thinking/questions.md)
+* [Outcome](thinking/outcome.md)
+* [Value](thinking/value.md)
+* [Discovery](thinking/discovery.md)
+* [Vision](thinking/vision.md)
