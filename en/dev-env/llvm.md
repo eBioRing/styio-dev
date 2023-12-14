@@ -35,3 +35,9 @@
 ```
 sudo apt install -y libzstd-dev libdwarf-dev
 ```
+
+#### FileCheck Not Found
+
+```bash
+ln /usr/bin/FileCheck-16 /usr/bin/FileCheck
+```
