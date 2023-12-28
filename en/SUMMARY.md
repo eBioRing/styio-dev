@@ -20,6 +20,7 @@
 ## Milestones
 
 * [Task Board](milestones/task-board.md)
+* [Clean Code](milestones/clean-code.md)
 
 ## Possible Optimizations
 
