@@ -2,6 +2,22 @@
 
 <table><thead><tr><th width="208">Code</th><th>Name</th></tr></thead><tbody><tr><td>I[0-9]+</td><td>Implementation</td></tr><tr><td>DS[0-9]+</td><td>Data Structure</td></tr><tr><td>F[0-9]+</td><td>Feature</td></tr><tr><td>O[0-9]+</td><td>Optimization</td></tr><tr><td>E[0-9]+</td><td>Exception</td></tr><tr><td></td><td></td></tr><tr><td>TSys[0-9]+</td><td>Type System</td></tr><tr><td>TInfer[0-9]+</td><td>Type Inference</td></tr><tr><td>Gen[0-9]+</td><td>LLVM IR Generation</td></tr><tr><td></td><td></td></tr></tbody></table>
 
+## \[E1] Code Text Locate
+
+
+
+## \[E1] Error Message Format
+
+
+
+## \[E1] For Parsing
+
+
+
+## \[E1] For Type Checking
+
+
+
 ## \[TInfer1] Type Check: Integer, Float
 
 
