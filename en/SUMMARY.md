@@ -17,6 +17,10 @@
 * [Visual Studio Code](dev-env/visual-studio-code.md)
 * [MSVC](dev-env/msvc.md)
 
+## Milestones
+
+* [Task Board](milestones/task-board.md)
+
 ## Possible Optimizations
 
 * [Parse URLs](possible-optimizations/parse-urls.md)
