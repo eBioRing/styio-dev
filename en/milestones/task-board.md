@@ -4,17 +4,29 @@
 
 ## \[E1] Code Text Locate
 
+#### **Done (Method)**
 
+Use global position to locate the line number (binary search).
+
+Add extra line seperation.
+
+Lable the current line with offset (position of curr char - start of this line).
+
+#### Derived Problem
+
+1. How to design and implement exceptions for a compiler?
+
+{% embed url="https://llvm.org/docs/ExceptionHandling.html" %}
 
 ## \[E1] Error Message Format
 
 
 
-## \[E1] For Parsing
+## \[E1] For Parsing (Parser Error)
 
 
 
-## \[E1] For Type Checking
+## \[E1] For Type Checking (Type Error)
 
 
 
@@ -97,6 +109,12 @@ struct {
 ```
 
 
+
+## \[F1] URLs Are Not Strings
+
+We need a feasible way to create, modify and operates URLs.
+
+{% embed url="https://news.ycombinator.com/item?id=21765788" %}
 
 ## \[O1] Parse URLs
 

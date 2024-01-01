@@ -33,5 +33,6 @@
 ## Thinking
 
 * [Questions](thinking/questions.md)
+* [Other Questions](thinking/other-questions.md)
 * [Value](thinking/value.md)
 * [Outcome](thinking/outcome.md)
