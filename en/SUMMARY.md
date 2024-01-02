@@ -14,6 +14,7 @@
   * [Pull Image](dev-env/docker/pull-image.md)
   * [Create Container](dev-env/docker/create-container.md)
   * [Versions](dev-env/docker/versions.md)
+  * [Others](dev-env/docker/others.md)
 * [Visual Studio Code](dev-env/visual-studio-code.md)
 * [MSVC](dev-env/msvc.md)
 
