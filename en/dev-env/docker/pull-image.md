@@ -7,7 +7,7 @@ docker build -t styio https://github.com/eBioRing/styio-dev-env.git#main:docker/
 ```
 
 ```bash
-docker build -t styio https://github.com/eBioRing/styio-dev-env.git#main:docker/lite
+docker build -t styio-lite https://github.com/eBioRing/styio-dev-env.git#main:docker/lite
 ```
 
 ### Or: Download Image
