@@ -41,3 +41,22 @@ sudo apt install -y libzstd-dev libdwarf-dev
 ```bash
 ln /usr/bin/FileCheck-16 /usr/bin/FileCheck
 ```
+
+#### ZLIB Not Found
+
+```log
+[cmake] CMake Error at /usr/lib/llvm-18/lib/cmake/llvm/LLVMExports.cmake:73 (set_target_properties):
+[cmake]   The link interface of target "LLVMSupport" contains:
+[cmake] 
+[cmake]     ZLIB::ZLIB
+[cmake] 
+[cmake]   but the target was not found.  Possible reasons include:
+[cmake] 
+[cmake]     * There is a typo in the target name.
+[cmake]     * A find_package call is missing for an IMPORTED target.
+[cmake]     * An ALIAS target is missing.
+[cmake] 
+[cmake] Call Stack (most recent call first):
+[cmake]   /usr/lib/llvm-18/cmake/LLVMConfig.cmake:369 (include)
+[cmake]   CMakeLists.txt:25 (find_package)
+```
