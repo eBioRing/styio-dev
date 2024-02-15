@@ -22,6 +22,7 @@
 
 * [Task Board](milestones/task-board.md)
 * [History](milestones/history.md)
+* [IF YOU DON'T KNOW WHAT TO DO](milestones/if-you-dont-know-what-to-do.md)
 
 ## Possible Optimizations
 
