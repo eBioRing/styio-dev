@@ -34,6 +34,7 @@
 
 ## Thinking
 
+* [Add A New AST](thinking/add-a-new-ast.md)
 * [Decisions](thinking/decisions.md)
 * [Questions](thinking/questions.md)
 * [Other Questions](thinking/other-questions.md)
