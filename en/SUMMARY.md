@@ -18,6 +18,10 @@
 * [Visual Studio Code](dev-env/visual-studio-code.md)
 * [MSVC](dev-env/msvc.md)
 
+## Rules
+
+* [1. Pay the price for efficiency.](rules/1.-pay-the-price-for-efficiency..md)
+
 ## Milestones
 
 * [Task Board](milestones/task-board.md)
