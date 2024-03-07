@@ -20,7 +20,7 @@
 
 ## Rules
 
-* [1. Pay the price for efficiency.](rules/1.-pay-the-price-for-efficiency..md)
+* [1. Pay only what you need.](rules/1.-pay-only-what-you-need..md)
 
 ## Milestones
 
