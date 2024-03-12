@@ -23,7 +23,7 @@ docker build -t styio-lite https://github.com/eBioRing/styio-dev-env.git#main:do
 Debian 12, LLVM 18
 
 ```bash
-docker build -t styio-cn-d12-l18 https://github.com/eBioRing/styio-dev-env.git#main:docker/cn/debian-12-llvm-18
+docker build -t styio-cn-lite-d12-l18 https://github.com/eBioRing/styio-dev-env.git#main:docker/cn/lite-debian-12-llvm-18
 ```
 
 ### Download Image
